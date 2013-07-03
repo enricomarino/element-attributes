@@ -1,0 +1,8 @@
+{
+  "name": "element-attributes",
+  "repo": "enricomarino/element-attribuets",
+  "description": "attribuets, plugin for element",
+  "version": "0.0.1",
+  "dependencies": {},
+  "scripts": ["index.js"]
+}
